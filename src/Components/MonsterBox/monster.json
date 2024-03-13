@@ -1,0 +1,94 @@
+{
+    "data": [
+        {   
+            "number": 10, 
+            "name": "Kassogtha", 
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/Kassogtha.jpg",
+            "eyes": 0,
+            "arms": 0,
+            "info": "This writhing mass of tentacles is said to be Cthulhu’s sister and mate (yuck). She’s describe as literally just a big pile of tentacles and in turn gave birth to Nctosa and Ncothlu, Cthulhu’s daughters. Incest seems a minor horror in the Lovecraft universe but its pretty gross nonetheless and shows that Great Old Ones’ family trees are messed up. As for Kassogtha herself, her abilities are ill defined but she can grab her victims with her tendrils and yank them in to devour them whole. She’s also noted for particularly bad tempered and violent, causing other Old Ones to tread carefully around her."
+        },
+
+        {
+            "number": 9,
+            "name": "Ghast",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/88a0a28aa97c9c481073282d5667410b-768x730.jpg",
+            "eyes": 2,
+            "arms": 2,
+            "info": "Hailing from Lovecraft’s surreal Dream Cycle, ghasts are humanoid creatures that live in the vaults of Zin. They have a vaguely human face, but lack noses or ears. They also have kangaroo-like legs which they use to hop around on and are very swift, strong, and agile. They hate sunlight and thus dwell in complete darkness, with sunlight capable of destroying them. Hunting in packs, they are fearsome hunters who will practice cannibalism if they get too hungry."
+        },
+
+        {
+            "number": 8,
+            "name": "Mi-go",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/Screenshot_20171022-090458-500x498.jpg",
+            "eyes": 20,
+            "arms": 2,
+            "info": "Aliens that looks like a cross between fungus and lobsters, mi-gos sure are strange. They fly through vacuum of space, zooming between Earth and Pluto with the aid of their supernatural wings. They worship other Lovecraft gods, acting as servants to them, being classified as a hostile and rather vicious alien species. In ancient times, they waged a war against the Elder Things on Earth before humans came into existence."
+        },
+
+        {
+            "number": 7,
+            "name": "Shoggoth",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/Shoggoth_by_Nottsuo-768x743.jpg",
+            "eyes": 50,
+            "arms": 10,
+            "info": "The Shoggoths were created by the Elder Things as a slave race, taking the form of grotesque blobs covered in dozens of eyes. They have tremendous strength and are nearly invincible against forms of physical attack. Eventually, they developed a consciousness of their own and rebelled against the Elder Things, resulting in them roaming the dark spaces of the world in the modern day. Pray you don’t need one."
+        },
+
+        {
+            "number": 6,
+            "name": "Dagon",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/dd7fdbc29f36348203837a6aacb8173b.jpg",
+            "eyes": 2,
+            "arms": 2,
+            "info": "A deity who rules over the Deep Ones, Father Dagon, as he’s called by his worshippers, is gigantic sea creature that dwells in the seas. Worshipped by a devout cult of humans and Deep Ones, Dagon only appears physically in a short story named after him, where he erupts from the ocean to embrace an unholy monolith but his presence casts a long shadow over the series, with his children being extensively featured."
+        },
+
+        {
+            "number": 5,
+            "name": "Azathoth",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/img-768x548.jpg",
+            "eyes": 15,
+            "arms": "Unknown",
+            "info": "“The Blind Idiot God’, Azathoth is basically a sentient singularity, sitting at the very center of the universe. Azathoth lies constantly in a deep slumber, kept there by other powerful deities who constantly sing to the creature to keep him in his induced, eternal hibernation. For if Azathoth were to ever awaken, the entire universe would end just like that. All it would need is a moment where it opens its eyes and boom! Everything just gone."
+        },
+
+        {
+            "number": 4,
+            "name": "Night-gaunts",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/img-1.jpg",
+            "eyes": 0,
+            "arms": 2,
+            "info": "Nightgaunts serve many gods and sometimes capture people climbing the mountains in the Dreamlands. They were inspired by nightmares Lovecraft had in his youth. Slithering through the Dreamlands, they collectively gave birth to the human conception of demons, with their long tails, closed feet, horns, and great bat-like wings. They’re said to have been inspired by nightmares Lovecraft himself suffered from."
+        },
+
+        {
+            "number": 3,
+            "name": "Y’Golonac ",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/Ygolonac.jpg",
+            "eyes": 0,
+            "arms": 2,
+            "info": "Y’golonac is a god of pure evil and sadism, who gets his kicks from torturing humans. He gets off on dozens of perversions that can barely be conceived by human imagination and perception, his acts stretching the limits of human comprehension. He takes a physical form through possessing human hosts, manifesting as a obese man without a head or neck, with a mouth in the palm of his hands. He seeks humans with similar perverse tastes to become his servants, coming to them when they read forbidden literature. His true form is sealed behind a wall of bricks, deep in ancient ruins beneath the earth."
+        },
+
+        {
+            "number": 2,
+            "name": "Yog-Sothoth",
+            "Image": "https://v4m9y9w9.rocketcdn.me/wp-content/uploads/2019/08/Screenshot_20171020-125436-753x1024.jpg",
+            "eyes": 10,
+            "arms": 100,
+            "info": "Hailing from Lovecraft’s surreal Dream Cycle, ghasts are humanoid creatures that live in the vaults of Zin. They have a vaguely human face, but lack noses or ears. They also have kangaroo-like legs which they use to hop around on and are very swift, strong, and agile. They hate sunlight and thus dwell in complete darkness, with sunlight capable of destroying them. Hunting in packs, they are fearsome hunters who will practice cannibalism if they get too hungry."
+        },
+
+        {
+            "number": 1,
+            "name": "The Almighty Chtulhu",
+            "Image": "https://hemator.files.wordpress.com/2017/03/cthulhu.jpg",
+            "eyes": 2,
+            "arms": 2,
+            "info": "He is one of the Great Old Ones, an old race of deities that are comparable to cosmic beings and archdemons in other works of fantasy. Cthulhu is infamously known for his grotesque appearance and gigantic size, as well as his ability to drive any human that gazes upon his form to insanity."
+        }
+
+    ]
+}

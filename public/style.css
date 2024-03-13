@@ -1,0 +1,27 @@
+:root {
+	--background: #000000;
+	--text-color: #ff0000;
+	--border-color: #ff0000;
+
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+	border-radius: 30px;
+}
+
+
+body {
+
+  	background: linear-gradient(to bottom, #151515,	 #000000);
+}
